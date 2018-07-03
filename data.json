@@ -1,0 +1,27 @@
+{
+  "park" : {"places" : 10},
+  "drivers": [
+    {"type":"default"},
+    {"type":"default"},
+    {"type":"default"},
+    {"type":"default"},
+    {"type":"default"},
+    {"type":"default"},
+    {"type":"pro"},
+    {"type":"pro"},
+    {"type":"pro"},
+    {"type":"pro"}
+  ],
+  "cars": [
+    {"km": 10000, "brand": "Homba"},
+    {"km": 13900, "brand": "Luba"},
+    {"km": 13900, "brand": "Hendai"},
+    {"km": 0, "brand": "Homba"},
+    {"km": 0, "brand": "Luba"},
+    {"km": 0, "brand": "Hendai"},
+    {"km": 0, "brand": "Homba"},
+    {"km": 200, "brand": "Hendai"},
+    {"km": 90000, "brand": "Luba"},
+    {"km": 13900, "brand": "Homba"}
+  ]
+}
