@@ -49,7 +49,6 @@ class WorkingDay {
 
   /**
    * The method displays statistics of the working day.
-   * TODO: not to display data, just return it for further using.
    *
    * @param int $key
    *
